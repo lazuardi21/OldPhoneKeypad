@@ -1,6 +1,6 @@
 # OldPhonePad Challenge
 
-Welcome! This project is my solution to the Iron Software C# Old Phone Keypad coding challenge.
+This project is solution to the Iron Software C# Old Phone Keypad coding challenge.
 
 ## How to Run
 
